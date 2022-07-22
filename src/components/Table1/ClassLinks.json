@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "sub": "CB102(L)",
+        "link": "https://iitpatna.webex.com/meet/webex17"
+    },
+    {
+        "id": "2",
+        "sub": "CH103(L)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "3",
+        "sub": "CH110(P)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "4",
+        "sub": "CH103(T)",
+        "link": "https://meet.google.com/qge-zkik-buh"
+    },
+    {
+        "id": "5",
+        "sub": "CS102(L)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "6",
+        "sub": "CS112(P)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "7",
+        "sub": "MA102(L)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "8",
+        "sub": "MA102(T)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "9",
+        "sub": "ME102(L)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    },
+    {
+        "id": "10",
+        "sub": "ME102(T)",
+        "link": "https://iitpatna.webex.com/meet/webex15"
+    }
+    
+]

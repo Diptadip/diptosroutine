@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "day": "Monday",
+        "slot1": "-",
+        "slot2": "ME102(L)",
+        "slot3": "CS102(L)",
+        "slot4": "CB102(L)",
+        "slot5": "L",
+        "slot6": "-",
+        "slot7": "ME102(T)",
+        "slot8": "CH103(L)"
+    },
+    {
+        "id": "2",
+        "day": "Tuesday",
+        "slot1": "-",
+        "slot2": "CB102(L)",
+        "slot3": "MA102(L)",
+        "slot4": "ME102(L)",
+        "slot5": "U",
+        "slot6": "-",
+        "slot7": "-",
+        "slot8": "-"
+    },
+    {
+        "id": "3",
+        "day": "Wednesday",
+        "slot1": "-",
+        "slot2": "CS102(L)",
+        "slot3": "MA102(L)",
+        "slot4": "CH103(L)",
+        "slot5": "N",
+        "slot6": "CH110(P)",
+        "slot7": "CH110(P)",
+        "slot8": "CH110(P)"
+    },
+    {
+        "id": "4",
+        "day": "Thursday",
+        "slot1": "-",
+        "slot2": "ME102(L)",
+        "slot3": "CS102(L)",
+        "slot4": "CH103(L)",
+        "slot5": "C",
+        "slot6": "CS112(P)",
+        "slot7": "CS112(P)",
+        "slot8": "CS112(P)"
+    },
+    {
+        "id": "5",
+        "day": "Friday",
+        "slot1": "MA102(T)",
+        "slot2": "MA102(L)",
+        "slot3": "CB102(L)",
+        "slot4": "CH103(L)",
+        "slot5": "H",
+        "slot6": "-",
+        "slot7": "-",
+        "slot8": "-"
+    }
+]

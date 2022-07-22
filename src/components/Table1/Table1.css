@@ -1,0 +1,14 @@
+.table{
+    background-color: var(--color-primary-variant);
+    opacity: 0.75;
+    backdrop-filter: blur(5px);
+}
+thead{
+    background-color: var(--color-bg-variant);
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}

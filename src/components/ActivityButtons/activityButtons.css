@@ -1,0 +1,31 @@
+.buttons_container{
+    display: grid;
+    align-contents: center;
+    width: 100%;
+}
+
+.botton{
+    padding: 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: var(--color-primary);
+    color: var(--color-light);
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: var(--color-light);
+    color: var(--color-primary);
+    opacity: 0.8;
+    backdrop-filter: blur(10px);
+}
+

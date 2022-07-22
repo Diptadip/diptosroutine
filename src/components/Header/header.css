@@ -1,0 +1,10 @@
+header{
+    background-color: var(--color-primary);
+    color: var(--color-bg-variant);
+    padding: 10px 10px;
+    margin-bottom: 90px;
+    opacity: 0.9;
+    backdrop-filter: blur(10px);
+    text-align: center;
+    text-shadow: 2px 2px 2px var(--color-bg-variant);
+}
